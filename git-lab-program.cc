@@ -2,7 +2,7 @@
  *        File: git-lab-program.cc
  *      Author: Sienna Mader
  *        Date: 1/22/25
- * Description: Add Description
+ * Description: sends a hello message
  */
 
 #include <iostream>
